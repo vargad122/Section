@@ -1,0 +1,472 @@
+
+.container{
+
+    
+    position: relative;
+    width: 746.58px;
+    height: 319px;
+    top: 64px;
+    left: 64.05px;
+
+
+}
+
+
+.first{
+    
+    width: 746.58px;
+    height: 40px;
+    top: 64px;
+    left: 64.05px;
+    background: #006633;
+    margin-bottom: 53px;
+
+
+}
+
+.styled1{
+
+    
+    position: absolute;
+    border: none;
+    background-color: #ffffff;
+    color: #000000; 
+    transform: skewX(-30deg); 
+    width: 183.17px;
+    height: 40px;
+    left: 13px;
+
+ 
+}
+
+.styled1:hover{
+
+    background-color: #55AE3A;
+}
+
+.styled1 span{
+
+    
+    display: inline-block;
+    transform: skewX(30deg);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    
+}
+
+.foci3{
+
+    
+    transform: skewX(30deg);
+    margin-top: 10px;
+    margin-left: 13px;
+
+    
+  
+    
+
+
+}
+
+
+
+.second{
+
+    
+    width: 746.58px;
+    height: 40px;
+    top: 157px;
+    left: 64.05px;
+    gap: 0px;
+    opacity: 0px;
+    background: #006633;
+    margin-bottom: 53px;
+
+}
+
+.labdarugas{
+
+    position: relative;
+    width: 135px;
+    height: 24px;
+    top: 8px;
+    left: 24px;
+    gap: 4px;
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    display: flex;
+    color: #ffffff;
+
+
+}
+
+.foci2{
+
+    width: 24px;
+    height: 24px;
+    
+
+
+}
+
+.arrow2{
+
+    position: absolute;
+    width: 20px;
+    height: 20.02px;
+    top: 10px;
+    left: 687px;
+   
+    
+   
+
+}
+
+.btn2{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 6px;
+    left: 711px;
+    gap: 0px;
+    border-radius: 4px;
+    opacity: 0px;
+    background: #55AE3A;
+    border: none;
+
+
+}
+
+.btn2:hover{
+
+    background-color: #dadada;
+}
+
+.styled2{
+
+    
+    position: absolute;
+    border: none;
+    background-color: #ffffff;
+    color: #000000; 
+    transform: skewX(-30deg); 
+    width: 183.17px;
+    height: 40px;
+    left: 170px;
+}
+
+.styled2:hover{
+
+    background-color: #55AE3A;
+}
+
+.styled2 span{
+
+    display: inline-block;
+    transform: skewX(30deg);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+
+
+.arrow{
+
+    position: absolute;
+    width: 20px;
+    height: 20.02px;
+    top: 102px;
+    left: 687px;
+   
+    
+   
+
+}
+
+.btn{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 99px;
+    left: 711px;
+    gap: 0px;
+    border-radius: 4px;
+    opacity: 0px;
+    background: #55AE3A;
+    border: none;
+
+
+}
+
+.btn:hover{
+
+    background-color: #dadada;
+}
+
+
+
+
+.third{
+
+    width: 746.58px;
+    height: 40px;
+    top: 250px;
+    left: 64.05px;
+    background: #006633;
+    margin-bottom: 53px;
+
+}
+
+.styled3{
+
+    
+    position: absolute;
+    border: none;
+    background-color: #ffffff;
+    color: #000000; 
+    transform: skewX(-30deg); 
+    width: 183.17px;
+    height: 40px;
+    left: 225px;
+}
+
+.styled3:hover{
+
+    background-color: #55AE3A;
+}
+
+.handball{
+
+    display: inline-block;
+    transform: skewX(30deg);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+.arrow3{
+
+    position: absolute;
+    width: 20px;
+    height: 20.02px;
+    top: 195px;
+    left: 687px;
+   
+    
+   
+
+}
+
+.btn3{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 192px;
+    left: 711px;
+    gap: 0px;
+    border-radius: 4px;
+    opacity: 0px;
+    background: #55AE3A;
+    border: none;
+
+
+}
+
+.btn3:hover{
+
+    background-color: #dadada;
+}
+
+
+
+
+
+
+
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100.08px;
+    height: 40px;
+
+
+}
+
+.one:hover{
+
+    background-color: #55AE3A;
+}
+
+.styled4{
+
+    
+    position: absolute;
+    border: none;
+    background-color: #006633;
+    color: #000000; 
+    transform: skewX(-30deg);
+    top: 186px;
+    width: 80px;
+    height: 40px;
+    left: 80px;
+}
+
+.styled4:hover{
+
+    background-color: #55AE3A;
+}
+
+.basketball{
+
+    
+    display: inline-block;
+    transform: skewX(30deg);
+    margin-left: 30px;
+    margin-top: 8px;
+
+    
+}
+
+.styled6{
+
+    
+    position: absolute;
+    border: none;
+    background-color: #006633;
+    color: #000000; 
+    transform: skewX(-30deg);
+    top: 186px;
+    width: 85px;
+    height: 40px;
+    left: 160px;
+}
+
+.styled6:hover{
+
+    background-color: #55AE3A;
+}
+
+.amerikaifoci{
+    
+    display: inline-block;
+    transform: skewX(30deg);
+    margin-left: 30px;
+    margin-top: 8px;
+
+}
+
+
+.fourth{
+
+    width: 746.58px;
+    height: 40px;
+    top: 343px;
+    left: 64.05px;
+    background: #006633;
+
+}
+.styled5{
+
+    
+    position: absolute;
+    border: none;
+    background-color: #006633;
+    color: #000000; 
+    transform: skewX(-30deg);
+    top: 279px;
+    width: 80px;
+    height: 40px;
+    left: 80px;
+}
+
+.styled5:hover{
+
+    background-color: #55AE3A;
+}
+
+.basketball{
+
+    
+    display: inline-block;
+    transform: skewX(30deg);
+    margin-left: 30px;
+    margin-top: 8px;
+
+    
+}
+
+
+.styled7{
+
+    
+    position: absolute;
+    border: none;
+    background-color: #006633;
+    color: #000000; 
+    transform: skewX(-30deg);
+    top: 279px;
+    width: 85px;
+    height: 40px;
+    left: 160px;
+}
+
+.styled7:hover{
+
+    background-color: #55AE3A;
+}
+
+.amerikaifoci{
+    
+    display: inline-block;
+    transform: skewX(30deg);
+    margin-left: 30px;
+    margin-top: 8px;
+
+}
+
+.arrow4{
+
+    position: absolute;
+    width: 20px;
+    height: 20.02px;
+    top: 286px;
+    left: 687px;
+   
+    
+   
+
+}
+
+.btn4{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 285px;
+    left: 711px;
+    gap: 0px;
+    border-radius: 4px;
+    opacity: 0px;
+    background: #55AE3A;
+    border: none;
+
+
+}
+
+.btn4:hover{
+
+    background-color: #dadada;
+}
