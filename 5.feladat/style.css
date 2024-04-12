@@ -1,0 +1,126 @@
+
+
+
+.container{
+
+    position: relative;
+    width: 706px;
+    height: 965px;
+    top: 64px;
+    left: 287px;
+
+}
+
+.first{    
+
+    display: flex;
+    align-items: center;
+    width: 706px;
+    height: 86px;
+    top: 64px;
+    left: 287px;
+    gap: 128px;
+    margin-bottom: 80px;
+
+}
+
+.card1{
+
+    width: 416px;
+    height: 86px;
+
+}
+
+.fektetett{
+
+    width: 162px;
+    height: 33px;
+ 
+
+}
+
+.second{
+
+    display: flex;
+    align-items: center;
+    width: 706px;
+    height: 86px;
+    
+    gap: 128px;
+    margin-bottom: 80px;
+
+}
+
+.card2{
+
+    width: 416px;
+    height: 86px;
+}
+
+.fektetett2{
+  
+    width: 162px;
+    height: 33px;
+
+}
+
+.third{
+    
+    display: flex;
+    align-items: center;
+    width: 706px;
+    height: 233px;
+    top: 396px;
+    left: 287px;
+    gap: 128px;
+    margin-bottom: 80px;
+
+
+}
+
+.card3{
+
+    
+    width: 416px;
+    height: 233px;
+
+
+}
+
+.fektetett3{
+
+    
+    width: 162px;
+    height: 90px;
+    
+}
+
+.fourth{
+
+    display: flex;
+    align-items: center;
+    width: 706px;
+    height: 320px;
+    top: 709px;
+    left: 287px;
+    gap: 128px;
+    
+
+}
+
+.card4{
+
+    width: 416px;
+    height: 320px;
+    padding: 0px 0px 14px 0px;
+
+
+}
+
+.fektetett4{
+
+    width: 162px;
+    height: 120px;
+
+
+}

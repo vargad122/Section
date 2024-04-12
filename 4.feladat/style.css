@@ -1,0 +1,104 @@
+body{
+
+   
+    position: relative;
+    width: 1280px;
+    height: 1100px;
+
+    background: #FFFFFF;
+
+}
+
+
+.group10640{
+
+    position: absolute;
+        width: 272px;
+        height: 931px;
+        top: 64px;
+        left: 504px;
+       
+        
+        
+
+}
+
+.label{
+    
+    
+    width: 272px;
+    height: 32px;
+    top: 64px;
+    left: 504px;
+    margin-bottom: 12px;
+    background-image: url('assets/Component\ 601.png');
+    background-size: cover;
+    
+    
+
+}
+
+.labelimg{
+
+   
+    width: 134px;
+    height: 32px;
+    left: 69px;
+    right: 69px;
+    color: #FFFFFF;
+    background-image: url('assets/Vector\ 10.png');
+    position: absolute;
+
+}
+
+
+
+
+
+.offer{
+
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 53px;
+    height: 17px;
+   
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16.8px;
+    
+    color: black;
+    
+
+}
+
+
+
+button{
+
+ 
+display: flex;
+align-items: center;
+justify-content: center;
+width: 172px;
+height: 32px;
+top: 963px;
+left: 554px;
+padding: 20px 24px 20px 24px;
+color: #FFFFFF;
+border-radius: 20px;
+background-color:#55AE3A;
+font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+border: none;
+text-align: center;
+
+
+
+
+}
